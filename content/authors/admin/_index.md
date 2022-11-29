@@ -1,43 +1,48 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Konstantina V Slaveykova 
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Konstantina
+last_name: Slaveykova
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Capability Team Leader & Doctoral Student in Cog Sci
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Victoria University of Wellington - Te Herenga Waka 
+    url: https://www.wgtn.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Interested in interdisciplinary research, mental imagery, visual perception, data viz & analytics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cognitive Science
+  - Interdisciplinary Research
+  - Science outreach & Media Literacy 
+  - Fighting Disinformation
+  - Data Visualisation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Cognitive & Behavioral Neuroscience 
+      institution: Victoria University of Wellington
+      year: 2024
+    - course: MSc in Cognitive Science
+      institution: NBU
+      year: 2017
+    - course: BA in European Studies 
+      institution: Law, History & Institutions of the European Union with Minor in Media Studies at Sofia University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Exchange Student, Arts & Sciences 
+      institution: University of Washington, Seattle (USA); Universita degli studi di Macerata, Macerata (Italy)
+      
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,7 +54,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/konstantinnna
     label: Follow me on Twitter
     display:
       header: true
@@ -58,10 +63,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Konstantinna
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/konstantina-vasileva/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -77,8 +82,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Konstantina has worked in media and data analytics since 2012, initially working mostly with AI-enabled industry tools for consumer intellingence, topic and sentiment analysis like Brandwatch & Synthesio. Going "back to school" for a degree in Cognitive Science, she realised she wanted to deepen her understanding and skills in statistics, data analysis and visualisation with R & Python.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Her interest in media literacy & combating misinformation make her a contributor to the Association of European Journalists educational series "Chronicles of the Infodemic" and a correspondent for children's news media (focusing on science & society).

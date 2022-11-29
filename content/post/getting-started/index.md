@@ -23,22 +23,20 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Unsplash**](https://avatars.githubusercontent.com/u/9154798?v=4)'
   focal_point: ''
   placement: 2
   preview_only: false
 
 authors:
-  - admin
-  - 吳恩達
+  - KVS
 
 tags:
-  - Academic
-  - 开源
+  - Academia
+  - Industry
 
 categories:
-  - Demo
-  - 教程
+  - Resume
 ---
 
 ```python
