@@ -10,7 +10,7 @@ last_name: Slaveykova
 superuser: true
 
 # Role/position/tagline
-role: Research Capability Team Leader & Doctoral Student in Cog Sci
+role: Research Capability Team Leader
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: https://www.wgtn.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in interdisciplinary research, mental imagery, visual perception, data viz & analytics.
+bio: Interested in interdisciplinary research, mental imagery, visual perception, data viz.
 
 # Interests to show in About widget
 interests:
