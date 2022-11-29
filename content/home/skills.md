@@ -19,11 +19,11 @@ feature:
   - description:
     icon: r-project
     icon_pack: fab
-    name: 
+    name:
   - description: 
     icon: chart-line
     icon_pack: fas
-    name: 
+    name:
   - description: 
     icon: camera-retro
     icon_pack: fas
