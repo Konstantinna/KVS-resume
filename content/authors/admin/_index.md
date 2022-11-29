@@ -22,9 +22,8 @@ bio: Interested in interdisciplinary research, mental imagery, visual perception
 
 # Interests to show in About widget
 interests:
-  - Cognitive Science
   - Interdisciplinary Research
-  - Science outreach & Media Literacy 
+  - Science Outreach 
   - Fighting Disinformation
   - Data Visualisation
 
@@ -38,7 +37,7 @@ education:
       institution: NBU
       year: 2017
     - course: BA in European Studies 
-      institution: Law, History & Institutions of the European Union with Minor in Media Studies at Sofia University
+      institution: Law, History & Institutions of the European Union with Minor in Media Studies, Sofia University
       year: 2009
     - course: Exchange Student, Arts & Sciences 
       institution: University of Washington, Seattle (USA); Universita degli studi di Macerata, Macerata (Italy)
